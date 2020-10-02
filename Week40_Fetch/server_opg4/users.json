@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "age": "55",
+      "name": "Edited edit",
+      "gender": "female",
+      "email": "shellygreer@jumpstack.com",
+      "id": 106
+    },
+    {
+      "id": 109,
+      "age": "24",
+      "name": "Edited edit",
+      "gender": "male",
+      "email": "edit@edit.dk"
+    },
+    {
+      "id": 110,
+      "age": 26,
+      "name": "Whitehead Rose",
+      "gender": "male",
+      "email": "whiteheadrose@jumpstack.com"
+    },
+    {
+      "id": 111,
+      "age": 33,
+      "name": "Buchanan Frye",
+      "gender": "male",
+      "email": "buchananfrye@jumpstack.com"
+    },
+    {
+      "id": 112,
+      "age": 24,
+      "name": "Baker Pratt",
+      "gender": "male",
+      "email": "bakerpratt@jumpstack.com"
+    },
+    {
+      "age": 39,
+      "name": "Donald Duck",
+      "gender": "male",
+      "email": "pp@jumpstack.com",
+      "id": 115
+    }
+  ]
+}
