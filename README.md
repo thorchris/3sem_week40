@@ -2,7 +2,7 @@
 
 #### Link to client for person project on surge: https://vamada-persons.surge.sh
 
-#### Week40_Fetch contains assignments from wedensday 
+#### Week40_Fetch contains assignments from wednesday 
 ##### Assignments link: https://docs.google.com/document/d/1Q5E4QYa5u-o8fFH1LEWP0XItk7dAU7NcfKErauM0czE/edit
 
 #### Week40_JS contains assignments from tuesday
